@@ -7,7 +7,7 @@ class Producto:
 
     def mostrar(self):
         print(f"Código: {self.codigo}")
-       print(f"Producto registrado2: {self.nombre}")
+        print(f"Producto registrado: {self.nombre}")
         print(f"Precio: ${self.precio}")
         print(f"Existencia: {self.existencia}")
 
