@@ -15,3 +15,6 @@
 - Workflows de GitHub Actions para compilación, pruebas y liberación.
 ## v1.1.0
 - Cambio en busqueda.py (version con falla simulada para practicar rollback)
+
+## v1.1.0
+- Cambio en busqueda.py (version con falla simulada para practicar rollback)

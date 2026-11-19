@@ -20,3 +20,5 @@ if __name__ == "__main__":
 raise RuntimeError("Error simulado en v1.1.0")
 
 raise RuntimeError("Error simulado en v1.1.0")
+
+raise RuntimeError("Error simulado en v1.1.0")
