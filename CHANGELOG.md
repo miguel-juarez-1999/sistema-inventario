@@ -13,3 +13,5 @@
 - Incorporación de la búsqueda de productos por nombre.
 - Implementación de pruebas automatizadas con unittest.
 - Workflows de GitHub Actions para compilación, pruebas y liberación.
+## v1.1.0
+- Cambio en busqueda.py (version con falla simulada para practicar rollback)

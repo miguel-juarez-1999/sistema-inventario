@@ -17,3 +17,6 @@ if __name__ == "__main__":
     for p in resultados:
         p.mostrar()
         print("---")
+raise RuntimeError("Error simulado en v1.1.0")
+
+raise RuntimeError("Error simulado en v1.1.0")
